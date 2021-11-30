@@ -16,16 +16,31 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        tableView1.delegate = self
+        tableView1.dataSource = self
+        
+        var superHeroesNames = [String]() //empty s
+        superHeroesNames.append("Spiderman")
+        superHeroesNames.append("CaptainAmerica")
+        superHeroesNames.append("IronMan")
+        superHeroesNames.append("HawkEye")
+        superHeroesNames.append("Batman")
+        
+        //UIImageView.image =
+        var superHeroesPhotes = [UIImage]()
+        superHeroesPhotos.append(UIImage(named: "batman")!)
     }
     // numburOfRowsInSection -> how many rows
     // cellForRow atIndexPath -> whats inside of these rows
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        <#code#>
+        return 10 // ten times
     }
     
-    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        <#code#>
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell { // view of inside
+        let cell = UITableViewCell()
+        cell.textLabel?.text = "Test"
+        return cell
     }
 }
 
