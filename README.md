@@ -3,14 +3,14 @@ This app shows superHeroes' Photos and Informations
 
 ## HomePage
 In home page you can see superHero names. It created with tableView. 
-![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 03](https://user-images.githubusercontent.com/44753206/144234354-a447cc93-83a4-46cb-81f9-dfd216203da8.png)
+![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 03](https://user-images.githubusercontent.com/44753206/144235433-aa23f255-623b-474c-9b89-3205a100b6ec.png)
 
 ## Second ViewController
 Second pages you can find superHero photos and names. 
 Navigation bar and Segue used.
-![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 24](https://user-images.githubusercontent.com/44753206/144234438-2b629be8-2afb-4056-b25c-1e7a502f1fa7.png)
-![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 46](https://user-images.githubusercontent.com/44753206/144234963-35ba9334-cc65-44c0-a730-7ff2b1e01df8.png)
+![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 24](https://user-images.githubusercontent.com/44753206/144235460-fa4f4b5f-62fd-46d7-b959-48e1f36f7c74.png)
+![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 46](https://user-images.githubusercontent.com/44753206/144235465-0317b899-5711-49f9-9365-883be444dd4c.png)
 
 ## Delete Function
 You can delete superheroes.
-![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 37](https://user-images.githubusercontent.com/44753206/144235004-7ff69145-b466-4906-8e0c-ea9a9fba180f.png)
+![Simulator Screen Shot - iPhone 11 - 2021-12-01 at 15 26 37](https://user-images.githubusercontent.com/44753206/144235473-709ae906-4984-47ef-ae06-5a88a917b95f.png)
